@@ -1,0 +1,1 @@
+agent=litellm_proxy/mercury-2.5 user=gpt-4.1-2025-04-14 args={"extra_body": {"reasoning_effort": "none"}}

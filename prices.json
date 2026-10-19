@@ -1,0 +1,45 @@
+{
+  "_note": "Prices in US dollars per million tokens. cached_input is the price for input tokens the provider served from its prompt cache. Checked 2026-10-18: Mercury on OpenRouter's Inception listing (0.20/0.75, cache read 0.02; launch promo 80% off), GPT-6 Luna on OpenAI's model page (0.10/0.50) with cached input 0.01. Re-check on the day you run; the analysis reads every price from here.",
+  "models": {
+    "mercury-2.5": {
+      "input": 0.2,
+      "output": 0.75,
+      "promo_input": 0.04,
+      "promo_output": 0.15,
+      "maker": "Inception",
+      "cached_input": 0.02,
+      "promo_cached_input": 0.004
+    },
+    "gpt-6-luna": {
+      "input": 0.1,
+      "output": 0.5,
+      "maker": "OpenAI",
+      "cached_input": 0.01
+    },
+    "gpt-5.6-luna": {
+      "input": 0.2,
+      "output": 1.2,
+      "maker": "OpenAI"
+    },
+    "gemini-3.5-flash-lite": {
+      "input": 0.3,
+      "output": 2.5,
+      "maker": "Google"
+    },
+    "claude-haiku-4-5": {
+      "input": 1.0,
+      "output": 5.0,
+      "maker": "Anthropic"
+    },
+    "gpt-4.1-2025-04-14": {
+      "input": 2.0,
+      "output": 8.0,
+      "maker": "OpenAI"
+    },
+    "gpt-5.2": {
+      "input": 1.75,
+      "output": 14.0,
+      "maker": "OpenAI"
+    }
+  }
+}

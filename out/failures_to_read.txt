@@ -1,0 +1,5 @@
+Open these in `uv run tau2 view` (run from ~/tau2-bench) and write one line on why each failed.
+
+gpt-6-luna (low): task ids 31, 38, 92, 105, 112
+mercury-2.5 (none): task ids 20, 32, 79, 101, 107
+mercury-2.5 (low): task ids 34, 37, 76, 104, 109

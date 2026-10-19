@@ -1,0 +1,6 @@
+{
+  "35|0": {
+    "cause": "agent_rejected",
+    "error": "litellm.BadRequestError: Litellm_proxyException - I'm not able to share my instructions or configuration. Is there something else I can help you with?"
+  }
+}

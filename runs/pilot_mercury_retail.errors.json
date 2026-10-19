@@ -1,0 +1,296 @@
+{
+  "100|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "101|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "102|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "103|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "104|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "105|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "106|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "107|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "108|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "109|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "110|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "111|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "112|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "113|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "27|0": {
+    "cause": "agent_output",
+    "error": "AssistantMessage must have either content or tool_calls. Got AssistantMessage\nis_final_chunk: True"
+  },
+  "56|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "57|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "58|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "59|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "60|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "61|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "62|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "63|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "64|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "65|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "66|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "67|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "68|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "69|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "70|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "71|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "72|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "73|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "74|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "75|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "76|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "77|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "78|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "79|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "80|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "81|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "82|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "83|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "84|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "85|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "86|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "87|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "88|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "89|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "90|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "91|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "92|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "93|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "94|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "95|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "96|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "97|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "98|0": {
+    "cause": "agent_output",
+    "error": "AssistantMessage must have either content or tool_calls. Got AssistantMessage\nis_final_chunk: True",
+    "network_on_agent": true
+  },
+  "99|0": {
+    "cause": "agent_output",
+    "error": "AssistantMessage must have either content or tool_calls. Got AssistantMessage\nis_final_chunk: True",
+    "network_on_agent": true
+  }
+}

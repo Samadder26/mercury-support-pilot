@@ -1,0 +1,52 @@
+{
+  "0|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "1|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "2|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "3|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "4|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "5|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "6|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "7|0": {
+    "cause": "agent_output",
+    "error": "AssistantMessage must have either content or tool_calls. Got AssistantMessage\nis_final_chunk: True",
+    "network_on_agent": true
+  },
+  "8|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  },
+  "9|0": {
+    "cause": "network",
+    "error": "litellm.RateLimitError: RateLimitError: Litellm_proxyException - Rate limit reached: too many requests per minute",
+    "network_on_agent": true
+  }
+}
